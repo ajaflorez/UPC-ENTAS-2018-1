@@ -82,3 +82,9 @@ Contains: Missing antlr:antlr:jar:sources:2.7.7
 !MESSAGE Could not resolve artifact antlr:antlr:jar:sources:2.7.7
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2018-04-21 12:16:55.864
 !MESSAGE Missing antlr:antlr:jar:sources:2.7.7
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-21 12:35:02.724
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-04-21 12:35:02.725
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
